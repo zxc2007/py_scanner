@@ -1,4 +1,0 @@
-[       Wed Aug 10 11:00:18 2022        ] :  Scanning Started for : soccerfield.pk
-[       Wed Aug 10 11:00:18 2022        ] :  Payload Used : <h1>Hello</h1>
-[       Wed Aug 10 11:00:18 2022        ] :  Params : {'s': '<h1>Hello</h1>'}
-[       Wed Aug 10 11:00:23 2022        ] :  HTML Injection Found : https://soccerfield.pk/?s=234s=%3Ch1%3EHello%3C%2Fh1%3E
